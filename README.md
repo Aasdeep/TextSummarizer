@@ -8,8 +8,6 @@ You must have following python libararies installed on your machine. Please refe
 
 2.NLTK (for natural language processing).
 
-3.Networkx (for using graph based algorithms).
-
 # Project structure:
 The projects has following major parts:
 
@@ -28,14 +26,10 @@ The projects has following major parts:
 
 4.Enter the text to summarize in the texbox and hit Summarize button.
 
-5.If everything goes well, you should be able to see the summarized version of the text on the results page.
-
 # Screenshots
 
 ![1](https://user-images.githubusercontent.com/61036755/91711561-b5c4ed80-eba3-11ea-9f47-1d57096b5092.png)
 
 ![2](https://user-images.githubusercontent.com/61036755/91711569-b8bfde00-eba3-11ea-93f9-30332ce5bf96.png)
 
-
-If you like this repo, please don't forget to give a ⭐.
 
